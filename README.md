@@ -28,5 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyothsna1076&show_icons=true&locale=en" alt="jyothsna1076" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyothsna1076&" alt="jyothsna1076" /></p>
-![3D Contribution Skyline](contribution3d.png)
+![3D Contribution Skyline](https://raw.githubusercontent.com/jyothsna1076/jyothsna1076/main/contribution3d.png)
+
 
