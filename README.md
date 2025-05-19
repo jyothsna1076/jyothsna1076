@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [ShroudX](https://github.com/saisriy/ShroudX)
 
-- 🌱 I’m currently learning **DSA**
-
 - 👨‍💻 All of my projects are available at [https://github.com/jyothsna1076](https://github.com/jyothsna1076)
 
 - 💬 Ask me about **DSA, Machine Learning**
